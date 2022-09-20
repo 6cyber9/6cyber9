@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @6cyber9
-- 👀 I’m interested in Engineering, CyberSecurity and Data analytics
-- 🌱 I’m currently learning Python Programming Language
+- 👋 Hi, I’m @6cyber9 a.k.a David_Nwaokolo
+- 👀 I’m interested in Structural_Engineering and Data_Analytics
+- 🌱 I’m currently learning to code in Python
 
 <!---
 6cyber9/6cyber9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
